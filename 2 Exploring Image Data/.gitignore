@@ -131,3 +131,4 @@ dmypy.json
 # data files
 /data
 /img
+/stl10_binary.tar.gz
