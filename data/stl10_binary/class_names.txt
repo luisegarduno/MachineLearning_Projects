@@ -1,6 +1,6 @@
 airplane
 bird
-boat
+car
 cat
 deer
 dog
