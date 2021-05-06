@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore STL-10 Binary
+/data/stl10_binary/
+/data/STL10/
+/data/stl10_binary.tar.gz/
