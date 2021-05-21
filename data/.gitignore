@@ -131,4 +131,7 @@ dmypy.json
 # data files
 /data
 /img
+/Sentiment140
 /stl10_binary.tar.gz
+archieve.zip
+glove.6B
