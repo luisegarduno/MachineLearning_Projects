@@ -132,3 +132,4 @@ dmypy.json
 /data/stl10_binary/
 /data/STL10/
 /data/stl10_binary.tar.gz/
+.idea/
