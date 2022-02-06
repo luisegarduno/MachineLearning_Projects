@@ -1,2 +1,2 @@
 # MachineLearning_Projects
-7 Machine Learning projects covering various concepts.
+Several Machine Learning projects that cover various concepts.
