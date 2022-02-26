@@ -133,3 +133,5 @@ dmypy.json
 /data/STL10/
 /data/stl10_binary.tar.gz/
 .idea/
+
+GPU_TEST.ipynb
