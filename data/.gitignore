@@ -132,6 +132,8 @@ dmypy.json
 /data
 /img
 /Sentiment140
+/bikes
+/housing
 /stl10_binary.tar.gz
 archieve.zip
 glove.6B
@@ -141,5 +143,3 @@ fashion_t10k-labels-idx1-ubyte
 fashion_train-images-idx3-ubyte
 fashion_train-labels-idx1-ubyte
 mnist_cnn.h5
-
-
