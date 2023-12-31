@@ -132,6 +132,7 @@ dmypy.json
 /data/stl10_binary/
 /data/STL10/
 /data/stl10_binary.tar.gz/
+/Flipped Modules/Training
 .idea/
 
 GPU_TEST.ipynb
